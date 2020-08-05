@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hi there. I’m Juan Carlos Cardoso de Oliveira.
+>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juanoliveira82) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juanoliveira82/) 
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=MIcrosoft%20Outlook&logoColor=white)](mailto:juanoliveira82@outlook.com)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCJ3DeCVwl832eI2k96joh3Q)
 
-<!--
-**juanoliveira82/juanoliveira82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:mortar_board: Studying Computer Science at UENP.
 
-Here are some ideas to get you started:
+🖥 Check out my [portfolio](https://juanoliveira82.github.io "Portfolio of Arthur Diniz da Luz").
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😴 I’m currently sleeping, so don't talk to me. Here are some stats:
+
+<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanoliveira82" /></td>
+<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=juanoliveira82&show_icons=true" /></td>
