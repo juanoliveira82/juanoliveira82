@@ -11,5 +11,5 @@
 
 😴 I’m currently sleeping, so don't talk to me. Here are some stats:
 
-<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanoliveira82" /></td>
-<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=juanoliveira82&show_icons=true" /></td>
+<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanoliveira82&theme=dark" /></td>
+<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=juanoliveira82&show_icons=true&theme=dark" /></td>
