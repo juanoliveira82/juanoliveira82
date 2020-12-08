@@ -10,5 +10,5 @@
 
 🖥 Check out my [portfolio](https://juanoliveira82.github.io "Portfolio of Arthur Diniz da Luz"). And some stats:
 
-<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanoliveira82&hide_border=true" /></td>
-<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=juanoliveira82&show_icons=true&hide_border=true" /></td>
+<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanoliveira82&hide_border=true&theme=dark&bg_color=0D1117" /></td>
+<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=juanoliveira82&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117" /></td>
